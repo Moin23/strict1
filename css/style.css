@@ -1,0 +1,180 @@
+*{
+	margin: 0px;
+}
+.container{
+	width: 1140px;
+	margin: 0 auto; 
+	
+}
+
+
+.banner{
+	background: url(../img/background.png) no-repeat;
+	height:850px;
+
+}
+.fnt {
+	text-align: center;
+	font-size: 100px;
+	color: white;
+	padding-top: 200px;
+
+}
+.line{
+	width: 400px;
+	height: 1px;
+	background-color: #33ffff;
+	margin: 0 auto; 	
+}
+.moto{
+	text-align: center;
+	padding-top: 10px;
+	color: white;
+}
+
+.butn{
+	border-radius: 1px;
+	padding:40px 150px;
+}
+
+
+.butn-styl{
+	padding: 5px 10px;
+	border:1px solid #33ffff;
+	display: block;
+	
+	margin: 0 auto;
+	background-color: transparent;
+	color: white;
+}
+.hpart{
+	text-align: center;
+	padding-bottom: 10px;
+}
+.text{
+	text-align: center;
+	padding-bottom: 100px;
+	font-size: 20px;
+	color: #808080;
+}
+
+.icon1{
+	width: 33.3333%;
+	float: left;
+}
+.img1{
+	padding-left: 145px;
+}
+.txt-head1{
+	text-align: center;
+}
+.txt-dis1{
+	text-align: center;
+	color: #808080;
+	font-size: 15ps;
+	padding-bottom: 100px;
+}
+
+.showcase{
+	text-align: center;
+	padding-bottom: 5px;
+
+}
+.con{
+	text-align: center; 	
+	color: #808080;
+	font-size: 12px;
+	padding-bottom: 50px;
+}
+.img-pros{
+	float: left;
+}
+.img-shw{
+	width: 33.3333%;
+	float: left;
+	padding-bottom: 15px;
+
+}
+.staywithus{
+	background: url(../img/staywithlog.png) no-repeat;
+	height: 900px;
+	margin: 600px 0;
+}
+.stay-txt{
+	text-align: center;
+	font-size: 45px;
+	color: white;
+	padding-top: 70px;
+
+}
+
+.stytxt-dis{
+	text-align: center;
+	font-size: 15px;
+	color: #808080;
+
+}
+.frm-styl{
+	padding-top: 30px;
+	padding-left: 400px;
+}
+.name{
+
+	background-color: transparent;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 140px;
+	padding-left: 10px;
+	border: 0.5px solid #808080;
+
+}
+.message{
+	background-color: transparent;
+	padding-top: 10px;
+	padding-bottom: 150px;
+	padding-right: 140px;
+	padding-left: 10px;
+	border: 0.5px solid #808080;
+}
+.btn{
+	padding-top: 20px;
+	padding-left: 645px;
+
+}
+.btn-sty{
+	 padding-top: 10px;
+	 padding-left: 405px;
+}
+.sub-btn{
+	border-radius: 3px;
+	border: 1 solid #808080;
+}
+.send-sty{
+	padding-left: 243px;
+	padding-bottom: 70px;
+
+}
+.sendtxt-stl{
+	padding: 5px 20px;
+	background-color: transparent;
+	border: 0.5px solid #33ffff;
+	color: white;
+}
+.footer{
+	padding-top: 50px;
+	background-color: white;
+	height: 50px;
+}
+
+.copyright{
+	width: 50%;
+	float: left;
+}
+.soclog{
+	width: 50%;
+	float: left;
+}
+.soclog1{
+	
+	padding-left: 200px;
+}
